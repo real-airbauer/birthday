@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "name":"Chilllounge Geburtstage",
+      "name":"Birthday Bot",
       "script":"index.py",
       "interpreter" : "python3.7",
       "interpreter_args": "-u"
