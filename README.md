@@ -42,7 +42,7 @@ Start the server
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/real-airbauer/birthday/blob/main/LICENSE)
 
 
 ## Authors
