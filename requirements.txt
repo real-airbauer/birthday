@@ -1,2 +1,4 @@
 asyncio
 git+https://github.com/Rapptz/discord.py@master
+
+#<3

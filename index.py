@@ -252,3 +252,5 @@ class BirthdayBot(Cog):
 
 bot.add_cog(BirthdayBot(bot))
 bot.run(config.token)
+
+# <3
